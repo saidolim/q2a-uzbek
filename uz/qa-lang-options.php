@@ -39,7 +39,7 @@ return array(
 	'confirm_user_required' => 'Новые пользователи должны выполнить подтверждение:',
 	'custom_home_content' => 'Содержимое для главной страницы (HTML разрешен):',
 	'custom_home_heading' => 'Заголовок для главной страницы:',
-	'default_privacy' => 'Конфиденциальность: Ваш электронный адрес не будет передан или продан третьим лицам.',
+	'default_privacy' => 'Maxfiylik: Sizning elektron manzilingiz 3-shaxslarga berilmaydi va sotilmaydi.',
 	'default_sidebar' => "Добро пожаловать на сайт ^, где вы можете задавать вопросы и получать ответы от других членов сообщества.",
 	'default_subject' => 'Сообщение от ^',
 	'default_suffix' => 'ВиО',

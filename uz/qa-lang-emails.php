@@ -16,7 +16,7 @@ return array(
 	'confirm_subject' => '^site_title - Подтверждение электронной почты',
 	
 	'feedback_body' => "Комментарий:\n^message\n\nИмя:\n^name\n\nЭлектронная почта:\n^email\n\nСо страницы:\n^previous\n\nПользователь:\n^url\n\nIP:\n^ip\n\nБраузер:\n^browser",
-	'feedback_subject' => '^ - Отзыв',
+	'feedback_subject' => '^ - Fikr',
 	
 	'flagged_body' => "Сообщение ^p_handle отмечено ^flags:\n\n^open^p_context^close\n\nНажмите ниже для просмотра сообщения:\n\n^url\n\n\nНажмите ниже для просмотра всех отмеченных сообщений:\n\n^a_url\n\n\nСпасибо, \n\n^site_title",
 	'flagged_subject' => '^site_title - Отмеченное сообщение',
@@ -59,6 +59,6 @@ return array(
 	'wall_post_body' => "^f_handle оставил запись на вашей стене на сайте ^site_title:\n\n^open^post^close\n\nДля ответа нажмите здесь:\n\n^url\n\nСпасибо,\n\n^site_title",
 
 	'welcome_body' => "Благодарим за регистрацию на сайте ^site_title.\n\n^custom^confirmВаши данные:\n\nИмя пользователя: ^handle\nЭлектронная почта: ^email\nПароль: ^password\n\nЗапомните эту информацию.\n\nСпасибо, \n\n^site_title\n^url",
-	'welcome_confirm' => "Пожалуйста, нажмите ниже, чтобы подтвердить свой адрес электронной почты.\n\n^url\n\n",
-	'welcome_subject' => 'Добро пожаловать на сайт ^site_title!',
+	'welcome_confirm' => "Iltimos, elektron manzilni tasdiqlash uchun quyidagi havolaga boshing.\n\n^url\n\n",
+	'welcome_subject' => '^site_title saytiga hush kelibsiz!',
 );
