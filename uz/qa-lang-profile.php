@@ -4,7 +4,7 @@ return [
 	'1_down_vote' => "1 'QARSHIMAN' ovoz",
 	'1_up_vote' => "1 'QARSHIMAN' ovoz",
 	'1_with_best_chosen' => ' (1 eng yaxshi ovoz bilan)',
-	'activity_by_x' => 'Faollik ^',
+	'activity_by_x' => '^ning faolliklari',
 	'answers' => 'Javoblar:',
 	'answers_by_x' => "^ bergan javob",
 	'bonus_points' => 'Bonus ballar:',
