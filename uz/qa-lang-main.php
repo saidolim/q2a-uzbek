@@ -37,7 +37,7 @@ return array(
 	'comment_edited' => 'izohni tahrirlash',
 	'comment_moved' => 'izohni ko‘chirish',
 	'comment_reshown' => 'izohni ko‘rsatish',
-	'commented' => 'izoh qoldirish',
+	'commented' => 'izoh qoldirdi',
 	'date_day_min_digits' => 2, // 1 или 2
 	'date_format_other_years' => '^day ^month, ^year',
 	'date_format_this_year' => '^day ^month',

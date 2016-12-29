@@ -75,7 +75,7 @@ return array(
 	'edit_a_popup' => 'Javobni o‘zgartir',
 	'edit_a_title' => 'Javobni o‘zgartirish',
 	'edit_button' => 'tahrirlash',
-	'edit_c_popup' => 'izohni tahrirla',
+	'edit_c_popup' => 'izohni tahrirlash',
 	'edit_c_title' => 'izohni tahrirlash',
 	'edit_must_confirm' => 'Iltimos, bu izohni tahrirlash uchun ^5profilni tasdiqlang^6 .',
 	'edit_must_login' => 'Iltimos, bu izohni tahrirlash ^1saytga kiring^2 yoki ^3ro‘yxatdan o‘ting^4 .',
