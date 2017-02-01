@@ -48,7 +48,7 @@ return [
 	'post_wall_must_confirm' => "Iltimos, foydalanuvchining xabarlar devorida xabar qoldirish uchun  ^5elektron manzilingizni tasdiqlang^6.",
 	'questions' => 'Savollar:',
 	'questions_by_x' => "^ bergan savollar",
-	'ranked_x' => ' (retingda #^-o‘rinda)',
+	'ranked_x' => ' (reytingda #^-o‘rinda)',
 	'received' => 'U uchun berilgan ovozlar:',
 	'recent_activity_by_x' => 'So‘nggi faollik ^',
 	'score' => 'Ballar:',

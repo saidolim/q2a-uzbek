@@ -146,7 +146,7 @@ return array(
 	'show_x_previous_comments' => 'oldingi izohlarni ^ kor‘satish ',
 	'unflag_button' => 'Belgini olish',
 	'unflag_popup' => 'Qo‘shilgan belgini olib tashlash',
-	'unselect_popup' => 'Belgilangani olish uchun bosing',
+	'unselect_popup' => 'Belgilanganni olish uchun bosing',
 	'x_answers_title' => '^ Javoblar',
 	'your_answer_title' => 'sizning javob:',
 	'your_comment_a' => 'Sizning izoh javobga:',

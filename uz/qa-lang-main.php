@@ -127,7 +127,7 @@ return array(
 	'recent_cs_in_x' => '^ga oxirgi qoldirilgan izohlar',
 	'recent_cs_title' => 'Oxirgi qoldirilgan izohlar',
 	'recent_qs_as_in_x' => '^dagi oxirgi savollar va javoblar',
-	'recent_qs_as_title' => 'Oxirgi savollar va javaoblar',
+	'recent_qs_as_title' => 'Oxirgi savollar va javoblar',
 	'recent_qs_in_x' => '^dagi oxirgi savollar',
 	'recent_qs_title' => 'Oxirgi savollar',
 	'related_qs_title' => 'O‘xshash savollar',

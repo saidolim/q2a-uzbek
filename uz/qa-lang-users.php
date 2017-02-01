@@ -97,7 +97,7 @@ return array(
 	"save_profile" => "Profilni saqlash",
 	"save_user" => "Foydalanuvchini saqlash",
 	"send_confirm_button" => "Havolani tasdiqlash uchun yuborish",
-	"send_password_button" => "Yangi parolni yubotish",
+	"send_password_button" => "Yangi parolni yuborish",
 	"send_reset_button" => "Parolni qayta tiklashni yuborish",
 	"send_reset_note" => "Xat Sizning elektron manzilingizga bajarilish tartibi bilan yuboriladi.",
 	"special_users" => "Maxsus foydalanuvchilar",
