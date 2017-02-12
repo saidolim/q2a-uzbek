@@ -61,6 +61,6 @@ return [
 	'wall_view_more' => "Xabarlar devoridagi boshqa xabarlarni ko‘rish...",
 	'x_chosen_as_best' => ' (^ tasi eng yaxshi deb tanlangan)',
 	'x_down_votes' => '^ "QARSHIMAN" ovozi',
-	'x_up_votes' => '^ "QO‘SHILMAN" ovozi',
+	'x_up_votes' => '^ "QO‘SHILAMAN" ovozi',
 	'x_with_best_chosen' => ' (^ eng yaxshi javob bilan)',
 ];
