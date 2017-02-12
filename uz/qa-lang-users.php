@@ -69,7 +69,7 @@ return array(
 	"only_shown_editors" => "(faqat muharrilar va ulardan baland huquqlilar ko‘ra olishadi)",
 	"only_shown_experts" => "(faqat mutahassis va ulardan baland huquqlilar ko‘ra olishadi)",
 	"only_shown_moderators" => "(faqat moderatorlar va ulardan baland huquqlilar ko‘ra olishadi)",
-	"password_changed" => "Parol o‘zgargan",
+	"password_changed" => "Parol o‘zgardi",
 	"password_label" => "Parol:",
 	"password_min" => "Parol uzunligi ^ dan kam bo‘lmasligi kerak",
 	"password_mismatch" => "Yangi parollar mos kelmayapti",
