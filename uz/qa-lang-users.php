@@ -112,5 +112,5 @@ return array(
 	"wall_posts" => "Xabarlar devori:",
 	"wall_posts_explanation" => "Foydalanuvchilarga sizning lavhangizda xabar qoldirishlariga ruxsat berish (sizning elektron manzilingizga xabar yuboriladi)",
 	"website" => "Sayt",
-	"x_ago_from_y" => "^1 undan orqaga ^2",
+	"x_ago_from_y" => "^1 avval ^2",
 );
